@@ -20,3 +20,22 @@ full_name = first_name + " " + last_name
 
 #Lets play
 dash = "-" * 10000
+
+len(first_name + last_name)
+
+
+
+#f string
+#first without f string
+name = "Shreyansh"
+
+string = "Hi there, my name is {name}"
+
+#output is this = 'Hi there, my name is {name}'
+
+#now let's do it with f string
+name = "Shreyansh"
+
+string = f"Hi there, my name is {name}"
+
+#output = 'Hi there, my name is Shreyansh'
