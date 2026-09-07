@@ -48,4 +48,4 @@ fruits.insert(1, "kiwi")    # Insert at position
 # Remove items
 fruits.remove("banana")     # Remove by value
 last = fruits.pop()        # Remove and return last
-del fruits[0]              # Remove by index
+del fruits[0]              # Remove by inde
