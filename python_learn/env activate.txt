@@ -1,0 +1,3 @@
+& "C:\Users\dell\OneDrive\Desktop\pythonwa\.venv\Scripts\Activate.ps1"
+
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy RemoteSigned
